@@ -1,4 +1,4 @@
-# Chapter 10 Bootstrap - Theory
+# Bootstrap - Workshop
 A first acquaintance with Bootstrap.
 
 ## Get the slides
